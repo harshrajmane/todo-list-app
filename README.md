@@ -23,9 +23,7 @@ A clean and user-friendly To-Do List web application that helps users manage dai
 This project was built as part of my internship to strengthen front-end development skills and understand DOM manipulation and browser storage.
 
 ## 📸 Preview
-(Add screenshot later)
+<img width="521" height="377" alt="Screenshot 2026-02-10 at 1 28 49 PM" src="https://github.com/user-attachments/assets/9b05885a-3830-460e-9ec4-6e3c9773baba" />
 
-## 🔗 Live Demo
-(Will add after deployment)
 
 ---
